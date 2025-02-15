@@ -1,2 +1,3 @@
-# opencvStudy
-这个是一个opencv的学习记录
+# openCVStudy
+
+这个是一个openCVStudy的学习记录
